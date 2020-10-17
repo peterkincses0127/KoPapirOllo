@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
     private void init() {
         btnKo = findViewById(R.id.buttonKo);
         btnPapir = findViewById(R.id.buttonPapir);
